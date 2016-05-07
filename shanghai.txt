@@ -1,0 +1,88 @@
+Invoker Matches 37  21  16
+Vengeful Spirit Matches 36  16  20
+Natures Prophet Matches 36  18  18
+Enchantress Matches 33  18  15
+Lion    Matches 31  20  11
+Beastmaster Matches 30  16  14
+Witch Doctor    Matches 25  10  15
+Io  Matches 24  11  13
+Outworld Devourer   Matches 24  15  9
+Sven    Matches 24  12  12
+Faceless Void   Matches 23  10  13
+Batrider    Matches 21  9   12
+Phoenix Matches 21  11  10
+Tidehunter  Matches 21  13  8
+Earth Spirit    Matches 20  11  9
+Tusk    Matches 19  10  9
+Lone Druid  Matches 19  12  7
+Chen    Matches 18  9   9
+Enigma  Matches 17  12  5
+Dark Seer   Matches 17  9   8
+Spectre Matches 16  10  6
+Gyrocopter  Matches 15  7   8
+Ember Spirit    Matches 15  5   10
+Slark   Matches 14  10  4
+Death Prophet   Matches 14  7   7
+Ursa    Matches 14  9   5
+Disruptor   Matches 14  9   5
+Tiny    Matches 13  7   6
+Rubick  Matches 12  6   6
+Puck    Matches 12  5   7
+Juggernaut  Matches 11  5   6
+Night Stalker   Matches 11  4   7
+Phantom Lancer  Matches 11  6   5
+Earthshaker Matches 10  3   7
+Zeus    Matches 10  4   6
+Drow Ranger Matches 10  6   4
+Winter Wyvern   Matches 9   3   6
+Morphling   Matches 9   2   7
+Broodmother Matches 9   3   6
+Doom    Matches 9   5   4
+Lina    Matches 9   3   6
+Crystal Maiden  Matches 8   4   4
+Razor   Matches 8   2   6
+Oracle  Matches 8   3   5
+Bounty Hunter   Matches 7   3   4
+Nyx Assassin    Matches 7   5   2
+Clinkz  Matches 7   5   2
+Mirana  Matches 7   4   3
+Weaver  Matches 6   2   4
+Dazzle  Matches 6   2   4
+Queen of Pain   Matches 6   3   3
+Bane    Matches 5   2   3
+Warlock Matches 4   2   2
+Windranger  Matches 4   4   0
+Chaos Knight    Matches 4   2   2
+Pugna   Matches 4   1   3
+Lycan   Matches 4   3   1
+Shadow Shaman   Matches 4   1   3
+Templar Assassin    Matches 4   3   1
+Bristleback Matches 4   1   3
+Visage  Matches 4   2   2
+Anti Mage   Matches 4   2   2
+Lich    Matches 3   2   1
+Naga Siren  Matches 3   1   2
+Lifestealer Matches 3   0   3
+Sand King   Matches 3   1   2
+Brewmaster  Matches 3   2   1
+Legion Commander    Matches 3   1   2
+Necrophos   Matches 3   0   3
+Spirit Breaker  Matches 3   0   3
+Viper   Matches 3   1   2
+Silencer    Matches 3   1   2
+Leshrac Matches 3   1   2
+Undying Matches 2   1   1
+Treant Protector    Matches 2   2   0
+Elder Titan Matches 2   2   0
+Jakiro  Matches 2   0   2
+Terrorblade Matches 1   0   1
+Shadow Demon    Matches 1   0   1
+Luna    Matches 1   0   1
+Alchemist   Matches 1   0   1
+Medusa  Matches 1   1   0
+Abaddon Matches 1   1   0
+Dragon Knight   Matches 1   0   1
+Ogre Magi   Matches 1   0   1
+Phantom Assassin    Matches 1   0   1
+Centaur Warrunner   Matches 1   0   1
+Slardar Matches 1   0   1

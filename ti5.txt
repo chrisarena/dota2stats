@@ -1,0 +1,89 @@
+Lina    93  50  43
+Gyrocopter  91  54  37
+Queen of Pain   88  40  48
+Tusk    86  45  41
+Dazzle  81  38  43
+Earthshaker 70  33  37
+Dark Seer   51  27  24
+Storm Spirit    50  29  21
+Clockwerk   49  26  23
+Bounty Hunter   48  33  15
+Shadow Fiend    47  19  28
+Winter Wyvern   47  19  28
+Rubick  47  22  25
+Undying 42  22  20
+Naga Siren  40  21  19
+Razor   39  14  25
+Bloodseeker 37  14  23
+Spirit Breaker  34  18  16
+Witch Doctor    32  14  18
+Crystal Maiden  29  18  11
+Ember Spirit    29  14  15
+Bane    28  10  18
+Phantom Lancer  26  16  10
+Anti Mage   25  12  13
+Io  23  12  11
+Dragon Knight   22  12  10
+Templar Assassin    22  15  7
+Lion    19  7   12
+Leshrac 18  10  8
+Disruptor   16  9   7
+Visage  14  9   5
+Clinkz  14  7   7
+Broodmother 14  9   5
+Viper   11  4   7
+Silencer    11  7   4
+Sand King   11  7   4
+Zeus    11  3   8
+Pugna   10  4   6
+Skywrath Mage   10  4   6
+Ancient Apparition  9   5   4
+Tiny    9   4   5
+Luna    9   6   3
+Treant Protector    8   4   4
+Phoenix 8   3   5
+Shadow Shaman   8   2   6
+Techies 8   7   1
+Bristleback 7   4   3
+Puck    7   4   3
+Magnus  7   3   4
+Centaur Warrunner   6   2   4
+Juggernaut  6   2   4
+Axe 6   2   4
+Wraith King 5   3   2
+Enigma  5   4   1
+Windranger  5   2   3
+Tidehunter  5   1   4
+Chen    4   1   3
+Invoker 4   0   4
+Keeper of the Light 4   1   3
+Sven    4   2   2
+Lycan   4   2   2
+Slardar 4   2   2
+Slark   4   1   3
+Night Stalker   4   2   2
+Shadow Demon    4   1   3
+Natures Prophet 3   1   2
+Beastmaster 3   3   0
+Enchantress 3   2   1
+Legion Commander    3   0   3
+Drow Ranger 3   1   2
+Omniknight  2   0   2
+Lich    2   2   0
+Venomancer  2   1   1
+Timbersaw   2   1   1
+Sniper  2   1   1
+Chaos Knight    2   1   1
+Brewmaster  2   1   1
+Huskar  1   0   1
+Abaddon 1   0   1
+Morphling   1   1   0
+Batrider    1   0   1
+Phantom Assassin    1   0   1
+Spectre 1   1   0
+Vengeful Spirit 1   1   0
+Lifestealer 1   1   0
+Nyx Assassin    1   0   1
+Medusa  1   0   1
+Tinker  1   0   1
+Jakiro  1   0   1
