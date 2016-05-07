@@ -1,89 +1,89 @@
-Lina    93  50  43
-Gyrocopter  91  54  37
-Queen of Pain   88  40  48
-Tusk    86  45  41
-Dazzle  81  38  43
-Earthshaker 70  33  37
-Dark Seer   51  27  24
-Storm Spirit    50  29  21
-Clockwerk   49  26  23
-Bounty Hunter   48  33  15
-Shadow Fiend    47  19  28
-Winter Wyvern   47  19  28
-Rubick  47  22  25
-Undying 42  22  20
-Naga Siren  40  21  19
-Razor   39  14  25
-Bloodseeker 37  14  23
-Spirit Breaker  34  18  16
-Witch Doctor    32  14  18
-Crystal Maiden  29  18  11
-Ember Spirit    29  14  15
-Bane    28  10  18
-Phantom Lancer  26  16  10
-Anti Mage   25  12  13
-Io  23  12  11
-Dragon Knight   22  12  10
-Templar Assassin    22  15  7
-Lion    19  7   12
-Leshrac 18  10  8
-Disruptor   16  9   7
-Visage  14  9   5
-Clinkz  14  7   7
-Broodmother 14  9   5
-Viper   11  4   7
-Silencer    11  7   4
-Sand King   11  7   4
-Zeus    11  3   8
-Pugna   10  4   6
-Skywrath Mage   10  4   6
-Ancient Apparition  9   5   4
-Tiny    9   4   5
-Luna    9   6   3
-Treant Protector    8   4   4
-Phoenix 8   3   5
-Shadow Shaman   8   2   6
-Techies 8   7   1
-Bristleback 7   4   3
-Puck    7   4   3
-Magnus  7   3   4
-Centaur Warrunner   6   2   4
-Juggernaut  6   2   4
-Axe 6   2   4
-Wraith King 5   3   2
-Enigma  5   4   1
-Windranger  5   2   3
-Tidehunter  5   1   4
-Chen    4   1   3
-Invoker 4   0   4
-Keeper of the Light 4   1   3
-Sven    4   2   2
-Lycan   4   2   2
-Slardar 4   2   2
-Slark   4   1   3
-Night Stalker   4   2   2
-Shadow Demon    4   1   3
-Natures Prophet 3   1   2
-Beastmaster 3   3   0
-Enchantress 3   2   1
-Legion Commander    3   0   3
-Drow Ranger 3   1   2
-Omniknight  2   0   2
-Lich    2   2   0
-Venomancer  2   1   1
-Timbersaw   2   1   1
-Sniper  2   1   1
-Chaos Knight    2   1   1
-Brewmaster  2   1   1
-Huskar  1   0   1
-Abaddon 1   0   1
-Morphling   1   1   0
-Batrider    1   0   1
-Phantom Assassin    1   0   1
-Spectre 1   1   0
-Vengeful Spirit 1   1   0
-Lifestealer 1   1   0
-Nyx Assassin    1   0   1
-Medusa  1   0   1
-Tinker  1   0   1
-Jakiro  1   0   1
+Lina	Matches	93	50	43
+Gyrocopter	Matches	91	54	37
+Queen of Pain	Matches	88	40	48
+Tusk	Matches	86	45	41
+Dazzle	Matches	81	38	43
+Earthshaker	Matches	70	33	37
+Dark Seer	Matches	51	27	24
+Storm Spirit	Matches	50	29	21
+Clockwerk	Matches	49	26	23
+Bounty Hunter	Matches	48	33	15
+Winter Wyvern	Matches	47	19	28
+Rubick	Matches	47	22	25
+Shadow Fiend	Matches	47	19	28
+Undying	Matches	42	22	20
+Naga Siren	Matches	40	21	19
+Razor	Matches	39	14	25
+Bloodseeker	Matches	37	14	23
+Spirit Breaker	Matches	34	18	16
+Witch Doctor	Matches	32	14	18
+Ember Spirit	Matches	29	14	15
+Crystal Maiden	Matches	29	18	11
+Bane	Matches	28	10	18
+Phantom Lancer	Matches	26	16	10
+Anti Mage	Matches	25	12	13
+Io	Matches	23	12	11
+Dragon Knight	Matches	22	12	10
+Templar Assassin	Matches	22	15	7
+Lion	Matches	19	7	12
+Leshrac	Matches	18	10	8
+Disruptor	Matches	16	9	7
+Clinkz	Matches	14	7	7
+Broodmother	Matches	14	9	5
+Visage	Matches	14	9	5
+Viper	Matches	11	4	7
+Silencer	Matches	11	7	4
+Zeus	Matches	11	3	8
+Sand King	Matches	11	7	4
+Skywrath Mage	Matches	10	4	6
+Pugna	Matches	10	4	6
+Luna	Matches	9	6	3
+Tiny	Matches	9	4	5
+Ancient Apparition	Matches	9	5	4
+Phoenix	Matches	8	3	5
+Treant Protector	Matches	8	4	4
+Techies	Matches	8	7	1
+Shadow Shaman	Matches	8	2	6
+Magnus	Matches	7	3	4
+Puck	Matches	7	4	3
+Bristleback	Matches	7	4	3
+Juggernaut	Matches	6	2	4
+Centaur Warrunner	Matches	6	2	4
+Axe	Matches	6	2	4
+Windranger	Matches	5	2	3
+Wraith King	Matches	5	3	2
+Tidehunter	Matches	5	1	4
+Enigma	Matches	5	4	1
+Slark	Matches	4	1	3
+Chen	Matches	4	1	3
+Slardar	Matches	4	2	2
+Night Stalker	Matches	4	2	2
+Invoker	Matches	4	0	4
+Lycan	Matches	4	2	2
+Keeper of the Light	Matches	4	1	3
+Shadow Demon	Matches	4	1	3
+Sven	Matches	4	2	2
+Natures Prophet	Matches	3	1	2
+Enchantress	Matches	3	2	1
+Beastmaster	Matches	3	3	0
+Legion Commander	Matches	3	0	3
+Drow Ranger	Matches	3	1	2
+Brewmaster	Matches	2	1	1
+Venomancer	Matches	2	1	1
+Chaos Knight	Matches	2	1	1
+Omniknight	Matches	2	0	2
+Sniper	Matches	2	1	1
+Lich	Matches	2	2	0
+Timbersaw	Matches	2	1	1
+Jakiro	Matches	1	0	1
+Tinker	Matches	1	0	1
+Huskar	Matches	1	0	1
+Lifestealer	Matches	1	1	0
+Medusa	Matches	1	0	1
+Nyx Assassin	Matches	1	0	1
+Morphling	Matches	1	1	0
+Abaddon	Matches	1	0	1
+Vengeful Spirit	Matches	1	1	0
+Batrider	Matches	1	0	1
+Phantom Assassin	Matches	1	0	1
+Spectre	Matches	1	1	0
