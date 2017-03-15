@@ -13,6 +13,9 @@ Instructions:
 3. Run one of the two executable programs: `dotabuff_sort.py` or `datdota_sort.py`, and give it the filename! You can use [PyCharm](https://www.jetbrains.com/pycharm/download/), which is free and fully cross platform. Or, if you're on Linux or OSX, simply use the terminal.
 4. Results should print out to your screen.
 
+Alternatively:
+
+1. Run `python opendota.py` to fetch data from the OpenDota Explorer and print the results to your screen.
 
 How it works:
 
