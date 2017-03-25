@@ -53,6 +53,7 @@ Magnus
 Medusa
 Meepo
 Mirana
+Monkey King
 Morphling
 Naga Siren
 Nature's Prophet

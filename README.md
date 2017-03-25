@@ -14,8 +14,20 @@ Instructions:
 4. Results should print out to your screen.
 
 Alternatively:
-
-1. Run `python opendota.py` to fetch data from the OpenDota Explorer and print the results to your screen.
+1. Find the leagueid for the tournament you're interested in with one of the following methods:
+  * From the OpenDota Explorer UI (https://www.opendota.com/explorer): Fill out the league field and then open the SQL editor to check the leagueid
+  * From the source data (http://api.opendota.com/api/leagues): Ctrl+F for the league in question, e.g.
+  ```
+  {
+  "leagueid": 5157,
+  "ticket": "econ/leagues/kiev_major_2017",
+  "banner": "econ/leagues/kiev_major_2017_ingame",
+  "tier": "premium",
+  "name": "Kiev Major"
+  },
+  ```
+  * Find the league on Dotabuff or similar and get the leagueid from the URL, e.g. https://www.dotabuff.com/esports/leagues/5157
+2. Run `python opendota.py {leagueid}` to fetch data from the OpenDota Explorer and print the results to your screen.
 
 How it works:
 
