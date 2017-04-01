@@ -3,11 +3,12 @@
 from __future__ import division
 from heroes import Hero
 from heroes import print_hero_info
-import urllib
-import requests
+from urllib.request import urlopen, Request
+from urllib.parse import quote
 import sys
+import json
 
-sql = urllib.quote_plus('''
+sql = quote('''
   SELECT *
   FROM heroes 
   LEFT JOIN 
@@ -18,8 +19,10 @@ sql = urllib.quote_plus('''
   GROUP BY hero_id)
   herodata USING(id)
   ORDER BY matches desc'''.format(sys.argv[1]))
-url = 'http://api.opendota.com/api/explorer?sql=' + sql;
-data = requests.get(url).json()
+url = 'https://api.opendota.com/api/explorer?sql=' + sql;
+req = Request(url)
+response = urlopen(req).readall().decode('utf-8')
+data = json.loads(response)
 hero_list = []
 for item in data['rows']:
   name = item['localized_name']

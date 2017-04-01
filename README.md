@@ -27,7 +27,7 @@ Alternatively:
   },
   ```
   * Find the league on Dotabuff or similar and get the leagueid from the URL, e.g. https://www.dotabuff.com/esports/leagues/5157
-2. Run `python opendota.py {leagueid}` to fetch data from the OpenDota Explorer and print the results to your screen.
+2. Run `./opendota.py {leagueid}` to fetch data from the OpenDota Explorer and print the results to your screen.
 
 How it works:
 
