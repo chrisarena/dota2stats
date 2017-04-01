@@ -15,7 +15,7 @@ Instructions:
 
 Alternatively:
 1. Find the leagueid for the tournament you're interested in with one of the following methods:
-  * From the OpenDota Explorer UI (https://www.opendota.com/explorer): Fill out the league field and then open the SQL editor to check the leagueid
+  * From the OpenDota Explorer UI (https://www.opendota.com/explorer): Fill out the league field and the number in brackets is the leagueid
   * From the source data (http://api.opendota.com/api/leagues): Ctrl+F for the league in question, e.g.
   ```
   {
