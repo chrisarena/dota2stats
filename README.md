@@ -13,6 +13,21 @@ Instructions:
 3. Run one of the two executable programs: `dotabuff_sort.py` or `datdota_sort.py`, and give it the filename! You can use [PyCharm](https://www.jetbrains.com/pycharm/download/), which is free and fully cross platform. Or, if you're on Linux or OSX, simply use the terminal.
 4. Results should print out to your screen.
 
+Alternatively:
+1. Find the leagueid for the tournament you're interested in with one of the following methods:
+  * From the OpenDota Explorer UI (https://www.opendota.com/explorer): Fill out the league field and the number in brackets is the leagueid
+  * From the source data (http://api.opendota.com/api/leagues): Ctrl+F for the league in question, e.g.
+  ```
+  {
+  "leagueid": 5157,
+  "ticket": "econ/leagues/kiev_major_2017",
+  "banner": "econ/leagues/kiev_major_2017_ingame",
+  "tier": "premium",
+  "name": "Kiev Major"
+  },
+  ```
+  * Find the league on Dotabuff or similar and get the leagueid from the URL, e.g. https://www.dotabuff.com/esports/leagues/5157
+2. Run `./opendota.py {leagueid}` to fetch data from the OpenDota Explorer and print the results to your screen.
 
 How it works:
 
